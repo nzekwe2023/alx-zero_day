@@ -1,2 +1,2 @@
 my first readme
-zero day
+good day
